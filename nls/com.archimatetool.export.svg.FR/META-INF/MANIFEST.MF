@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Language Pack
+Bundle-SymbolicName: com.archimatetool.export.svg.FR
+Bundle-Version: 0.0.1.qualifier
+Fragment-Host: com.archimatetool.export.svg
+Bundle-ClassPath: com.archimatetool.export.svg.FR.jar

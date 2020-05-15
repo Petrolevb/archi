@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Language Pack
+Bundle-SymbolicName: com.archimatetool.hammer.FR
+Bundle-Version: 0.0.1.qualifier
+Fragment-Host: com.archimatetool.hammer
+Bundle-ClassPath: com.archimatetool.hammer.FR.jar

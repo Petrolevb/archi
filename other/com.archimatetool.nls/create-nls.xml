@@ -14,8 +14,8 @@
 			"lang_code" shold be one of the language codes such as fr, de, nl, ru
 			"nls_version" should be the version of the language packs
 	  	</description>
-		<property name="lang_code"					value="en"/>
-		<property name="nls_version"				value="4.0.0"/>
+		<property name="lang_code"					value="FR"/>
+		<property name="nls_version"				value="0.0.1"/>
 	</target>
 	
 	

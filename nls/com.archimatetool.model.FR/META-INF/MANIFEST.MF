@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Language Pack
+Bundle-SymbolicName: com.archimatetool.model.FR
+Bundle-Version: 0.0.1.qualifier
+Fragment-Host: com.archimatetool.model
+Bundle-ClassPath: com.archimatetool.model.FR.jar
