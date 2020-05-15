@@ -30,3 +30,5 @@ Please see [How can I contribute code to Archi?](https://github.com/Phillipus/ar
 Plus d'informations se trouvent notament [ici](https://github.com/archimatetool/archi/wiki/Translating-Archi)
 Toutes définitions a été traduite conformément à la [publication officielle de l'Open Group](https://publications.opengroup.org/c204)
 
+### TODO: 
+[ ] com.archimatetool.model.viewpoints : ViewPointsManager_0 = None
