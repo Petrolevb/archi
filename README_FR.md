@@ -32,3 +32,19 @@ Toutes définitions a été traduite conformément à la [publication officielle
 
 ### TODO: 
 [ ] com.archimatetool.model.viewpoints : ViewPointsManager_0 = None
+[ ] com.archimatetool.editor     : command.name = Show Navigator View
+[ ] com.archimatetool.editor     : keyword (tous)
+    [ ] .preferences             : Tous
+    [ ] .utils                   : have to check "Copying" & "Moving" context
+    [ ] .diagram                 : Tous
+            [ ] .actions         : Impression "Tiled" ?
+            [ ] .figures.diagram :  "Type : View Reference"
+            [ ] .policies        : "Reconnect" ?
+            [ ] .commands        : "Add view reference"
+            [ ] .commands        : "Move/Size {0}"
+    [ ] .model                   : "Wrong number of diagram component instances"
+    [ ] .ui                      : Check "{0} connects to {1}" -> "{0} est relié à {1}"
+        [ ] .factory.diagram     :  "View Reference"
+    [ ] .propertysections        : "Show label" ?
+                                 : "Connection Router:"
+
