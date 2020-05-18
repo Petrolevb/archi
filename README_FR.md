@@ -31,7 +31,6 @@ Plus d'informations se trouvent notament [ici](https://github.com/archimatetool/
 Toutes définitions a été traduite conformément à la [publication officielle de l'Open Group](https://publications.opengroup.org/c204)
 
 ### TODO: 
-[ ] com.archimatetool.templates        : intégralement
 [ ] com.archimatetool.model.viewpoints : ViewPointsManager_0 = None
 [ ] com.archimatetool.editor     : command.name = Show Navigator View
 [ ] com.archimatetool.editor     : keyword (tous)
