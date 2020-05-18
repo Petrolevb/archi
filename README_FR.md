@@ -34,7 +34,7 @@ Toutes définitions a été traduite conformément à la [publication officielle
 [ ] com.archimatetool.model.viewpoints : ViewPointsManager_0 = None
 [ ] com.archimatetool.editor     : command.name = Show Navigator View
 [ ] com.archimatetool.editor     : keyword (tous)
-    [ ] .preferences             : Tous
+    [ ] .preferences             : "label background", "clipped", "Hard" / "Soft"
     [ ] .utils                   : have to check "Copying" & "Moving" context
     [ ] .diagram                 : Tous
             [ ] .actions         : Impression "Tiled" ?
