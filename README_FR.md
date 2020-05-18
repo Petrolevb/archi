@@ -36,7 +36,7 @@ Toutes définitions a été traduite conformément à la [publication officielle
 [ ] com.archimatetool.editor     : keyword (tous)
     [ ] .preferences             : "label background", "clipped", "Hard" / "Soft"
     [ ] .utils                   : have to check "Copying" & "Moving" context
-    [ ] .diagram                 : Tous
+    [ ] .diagram                 : "Connection Router"
             [ ] .actions         : Impression "Tiled" ?
             [ ] .figures.diagram :  "Type : View Reference"
             [ ] .policies        : "Reconnect" ?
